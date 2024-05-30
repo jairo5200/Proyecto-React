@@ -48,3 +48,18 @@ function useLocalStorage(itemName, initialValue) {
 
 
   export {useLocalStorage};
+
+
+
+
+  // localStorage.removeItem('TODOS_V1');
+
+
+// const defaultTodos = [
+//    {text: 'Encender redulador', completed: true},
+//    {text: 'Encender la cpu', completed: false},
+//    {text: 'Colocar contraseña', completed: true},
+//    {text: 'Abrir VSC', completed: false},
+// ];
+
+// localStorage.setItem('TODOS_V1',JSON.stringify(defaultTodos));
